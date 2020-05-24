@@ -1,4 +1,4 @@
-package Step.Helpers;
+package org.step.tinder.Helpers;
 
 public class Profile {
     String uname;

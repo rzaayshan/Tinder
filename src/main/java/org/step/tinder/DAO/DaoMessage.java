@@ -1,7 +1,7 @@
-package Step.DAO;
+package org.step.tinder.DAO;
 
-import Step.Helpers.Message;
-import Step.db.ConnDetails;
+import org.step.tinder.Helpers.Message;
+import org.step.tinder.db.ConnDetails;
 
 import java.sql.*;
 import java.time.LocalDateTime;

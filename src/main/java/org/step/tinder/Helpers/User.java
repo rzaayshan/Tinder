@@ -1,4 +1,4 @@
-package Step.Helpers;
+package org.step.tinder.Helpers;
 
 public class User {
     private int id;

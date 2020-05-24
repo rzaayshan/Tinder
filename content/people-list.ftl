@@ -32,7 +32,7 @@
                                 <tr>
                                     <td width="10">
                                         <div class="avatar-img">
-                                            <img class="img-circle" src=${user.image} width="200" height="100"/>  
+                                            <img class="img-circle" src=${user.image} />  
                                         </div>
                                     </td>
                                     <td class="align-middle">

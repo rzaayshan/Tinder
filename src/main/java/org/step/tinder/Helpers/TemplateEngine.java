@@ -1,4 +1,4 @@
-package Step.Helpers;
+package org.step.tinder.Helpers;
 
 import freemarker.template.Configuration;
 import freemarker.template.TemplateException;

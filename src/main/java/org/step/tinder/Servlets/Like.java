@@ -1,7 +1,7 @@
-package Step.Servlets;
+package org.step.tinder.Servlets;
 
-import Step.Helpers.Profile;
-import Step.Helpers.TemplateEngine;
+import org.step.tinder.Helpers.Profile;
+import org.step.tinder.Helpers.TemplateEngine;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

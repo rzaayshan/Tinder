@@ -1,7 +1,7 @@
-package Step.DAO;
+package org.step.tinder.DAO;
 
-import Step.Helpers.Profile;
-import Step.db.ConnDetails;
+import org.step.tinder.Helpers.Profile;
+import org.step.tinder.db.ConnDetails;
 
 
 import java.sql.*;

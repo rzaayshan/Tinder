@@ -1,6 +1,6 @@
-package Step.Servlets;
+package org.step.tinder.Servlets;
 
-import Step.DAO.DaoLikes;
+import org.step.tinder.DAO.DaoLikes;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;

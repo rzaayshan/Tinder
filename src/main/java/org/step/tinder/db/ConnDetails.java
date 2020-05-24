@@ -1,4 +1,4 @@
-package Step.db;
+package org.step.tinder.db;
 
 public class ConnDetails {
   public static final String url = "jdbc:postgresql://ec2-54-246-90-10.eu-west-1.compute.amazonaws.com:5432/du2uhand2h0lq";

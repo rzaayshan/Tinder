@@ -1,8 +1,8 @@
-package Step.Servlets;
+package org.step.tinder.Servlets;
 
-import Step.DAO.DaoLikes;
-import Step.Helpers.Profile;
-import Step.Helpers.TemplateEngine;
+import org.step.tinder.DAO.DaoLikes;
+import org.step.tinder.Helpers.Profile;
+import org.step.tinder.Helpers.TemplateEngine;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;

@@ -1,18 +1,18 @@
-package Step;
+package org.step.tinder;
 
-import Step.Filters.CanLogin;
-import Step.Filters.IsLogin;
-import Step.Helpers.TemplateEngine;
-import Step.Servlets.*;
-import Step.db.ConnDetails;
-import Step.db.DbSetup;
+import org.step.tinder.Filters.CanLogin;
+import org.step.tinder.Filters.IsLogin;
+import org.step.tinder.Helpers.TemplateEngine;
+import org.step.tinder.Servlets.*;
+import org.step.tinder.db.ConnDetails;
+import org.step.tinder.db.DbSetup;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.servlet.FilterHolder;
 import org.eclipse.jetty.servlet.ServletContextHandler;
 import org.eclipse.jetty.servlet.ServletHolder;
+import org.step.tinder.Servlets.*;
 
 import javax.servlet.DispatcherType;
-import java.sql.Connection;
 import java.util.EnumSet;
 
 

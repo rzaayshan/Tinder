@@ -1,6 +1,6 @@
-package Step.Filters;
+package org.step.tinder.Filters;
 
-import Step.DAO.DaoUsers;
+import org.step.tinder.DAO.DaoUsers;
 
 import javax.servlet.*;
 import javax.servlet.http.Cookie;

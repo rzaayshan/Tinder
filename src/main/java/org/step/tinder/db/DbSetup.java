@@ -1,4 +1,4 @@
-package Step.db;
+package org.step.tinder.db;
 
 import org.flywaydb.core.Flyway;
 import org.flywaydb.core.api.configuration.FluentConfiguration;

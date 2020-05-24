@@ -1,4 +1,4 @@
-package Step.Servlets;
+package org.step.tinder.Servlets;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.Cookie;

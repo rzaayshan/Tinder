@@ -1,9 +1,9 @@
-package Step.Servlets;
+package org.step.tinder.Servlets;
 
-import Step.DAO.DaoMessage;
-import Step.DAO.DaoUsers;
-import Step.Helpers.Message;
-import Step.Helpers.TemplateEngine;
+import org.step.tinder.DAO.DaoMessage;
+import org.step.tinder.DAO.DaoUsers;
+import org.step.tinder.Helpers.Message;
+import org.step.tinder.Helpers.TemplateEngine;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.Cookie;
